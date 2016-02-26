@@ -1,1 +1,1 @@
-This repository will act as the parent directory for all Coursera Related Projects.
+This repository will act as the parent directory for all Coursera Related Projects. 
